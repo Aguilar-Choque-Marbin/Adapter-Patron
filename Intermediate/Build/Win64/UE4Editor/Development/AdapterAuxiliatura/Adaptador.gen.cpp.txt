@@ -1,0 +1,7 @@
+D:\sis457\AdapterAuxiliatura\Intermediate\Build\Win64\UE4Editor\Development\AdapterAuxiliatura\Definitions.AdapterAuxiliatura.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\sis457\AdapterAuxiliatura\Source\AdapterAuxiliatura/Adaptador.h
+D:\sis457\AdapterAuxiliatura\Source\AdapterAuxiliatura\IBounceBall.h
+D:\sis457\AdapterAuxiliatura\Intermediate\Build\Win64\UE4Editor\Inc\AdapterAuxiliatura\IBounceBall.generated.h
+D:\sis457\AdapterAuxiliatura\Intermediate\Build\Win64\UE4Editor\Inc\AdapterAuxiliatura\Adaptador.generated.h

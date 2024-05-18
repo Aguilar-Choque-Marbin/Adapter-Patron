@@ -1,0 +1,3 @@
+D:\sis457\AdapterAuxiliatura\Intermediate\Build\Win64\UE4Editor\Development\AdapterAuxiliatura\Definitions.AdapterAuxiliatura.h
+D:\sis457\AdapterAuxiliatura\Source\AdapterAuxiliatura\IBounceBall.h
+D:\sis457\AdapterAuxiliatura\Intermediate\Build\Win64\UE4Editor\Inc\AdapterAuxiliatura\IBounceBall.generated.h

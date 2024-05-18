@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AdapterAuxiliatura",
+			"Path": "D:\\sis457\\AdapterAuxiliatura\\Source\\AdapterAuxiliatura.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AdapterAuxiliaturaEditor",
+			"Path": "D:\\sis457\\AdapterAuxiliatura\\Source\\AdapterAuxiliaturaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

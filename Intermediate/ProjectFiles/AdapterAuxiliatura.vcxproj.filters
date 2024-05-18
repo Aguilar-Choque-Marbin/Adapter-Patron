@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AdapterAuxiliatura.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1AE60533-5290-4C27-A510-DA8802C5EFC2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AdapterAuxiliatura.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AdapterAuxiliaturaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{4B984C81-66E8-4AA7-9012-CBF800FF6F15}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AdapterAuxiliatura">
+      <UniqueIdentifier>{304D777E-CE2B-437C-91FE-545683BBDED9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\AdapterAuxiliatura\Adaptador.cpp">
+      <Filter>Source\AdapterAuxiliatura</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterAuxiliatura\Adaptador.h">
+      <Filter>Source\AdapterAuxiliatura</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\AdapterAuxiliatura\AdapterAuxiliatura.Build.cs">
+      <Filter>Source\AdapterAuxiliatura</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AdapterAuxiliatura\AdapterAuxiliatura.cpp">
+      <Filter>Source\AdapterAuxiliatura</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterAuxiliatura\AdapterAuxiliatura.h">
+      <Filter>Source\AdapterAuxiliatura</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdapterAuxiliatura\AdapterAuxiliaturaGameMode.cpp">
+      <Filter>Source\AdapterAuxiliatura</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterAuxiliatura\AdapterAuxiliaturaGameMode.h">
+      <Filter>Source\AdapterAuxiliatura</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdapterAuxiliatura\AdapterAuxiliaturaPawn.cpp">
+      <Filter>Source\AdapterAuxiliatura</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterAuxiliatura\AdapterAuxiliaturaPawn.h">
+      <Filter>Source\AdapterAuxiliatura</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdapterAuxiliatura\AdapterAuxiliaturaProjectile.cpp">
+      <Filter>Source\AdapterAuxiliatura</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterAuxiliatura\AdapterAuxiliaturaProjectile.h">
+      <Filter>Source\AdapterAuxiliatura</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdapterAuxiliatura\AdapterExtranjero.cpp">
+      <Filter>Source\AdapterAuxiliatura</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterAuxiliatura\AdapterExtranjero.h">
+      <Filter>Source\AdapterAuxiliatura</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdapterAuxiliatura\Ball.cpp">
+      <Filter>Source\AdapterAuxiliatura</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterAuxiliatura\Ball.h">
+      <Filter>Source\AdapterAuxiliatura</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdapterAuxiliatura\IBounceBall.cpp">
+      <Filter>Source\AdapterAuxiliatura</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterAuxiliatura\IBounceBall.h">
+      <Filter>Source\AdapterAuxiliatura</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
